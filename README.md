@@ -1,1 +1,2 @@
 # Fake-News-Detection-
+The Fake News Detection project focuses on combating misinformation by developing a machine learning-based system that identifies whether a news article is real or fake. With the surge of online content, fake news has become a critical issue, and this project aims to address it by leveraging data analysis, natural language processing (NLP), and predictive modeling techniques.
